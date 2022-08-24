@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/willjschmitt/fintech-devcon-2022-gitops.git
+    repoURL: https://github.com/josh-gen6/fintech-devcon-2022-gitops.git
     targetRevision: HEAD
     path: config/greeter-service-staging
   destination:
@@ -25,7 +25,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/willjschmitt/fintech-devcon-2022-gitops.git
+    repoURL: https://github.com/josh-gen6/fintech-devcon-2022-gitops.git
     targetRevision: HEAD
     path: config/greeter-service-production
   destination:

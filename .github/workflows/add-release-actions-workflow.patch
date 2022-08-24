@@ -11,7 +11,7 @@ index 0000000..331f492
 +    runs-on: ubuntu-latest
 +    env:
 +      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-+      DOCKERHUB_USERNAME: willjschmitt
++      DOCKERHUB_USERNAME: jdmcneal1
 +      DOCKERHUB_TOKEN: ${{ secrets.DOCKERHUB_TOKEN }}
 +    steps:
 +      - name: Checkout repository
